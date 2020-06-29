@@ -1,26 +1,26 @@
 ## Day 1
-- [ ] Make sure you have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
-- [ ] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
-- [ ] Initialize this New Folder (**project_folder that you have copied in other location in your computer**) as a Git Repository using **_git init_**.
-- [ ] Push the contents to your new repository (**your_username.github.io**)
+- [x] Make sure you have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
+- [x] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
+- [x] Initialize this New Folder (**project_folder that you have copied in other location in your computer**) as a Git Repository using **_git init_**.
+- [x] Push the contents to your new repository (**your_username.github.io**)
 
 ![](../memes/m8.jpeg)
 
 ## Day 2
-- [ ] Start Learning HTML from 
+- [x] Start Learning HTML from 
     - <a href="https://www.w3schools.com/html/default.asp">w3schools</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN web docs</a>
     - List of important tags :
-        - [ ] Heading tags
-        - [ ] Paragraph tag
-        - [ ] Anchor tag
-        - [ ] List tags
-        - [ ] Image tag
-        - [ ] Form tags
-        - [ ] Table tags
-        - [ ] Meta tag, etc.
-- [ ] Make changes in the index.html page of your repository.
-- [ ] Commit and push the changes to your repository.
+        - [x] Heading tags
+        - [x] Paragraph tag
+        - [x] Anchor tag
+        - [x] List tags
+        - [x] Image tag
+        - [x] Form tags
+        - [x] Table tags
+        - [x] Meta tag, etc.
+- [x] Make changes in the index.html page of your repository.
+- [x] Commit and push the changes to your repository.
 
 ![](../memes/m5.jpeg)
 ## Day 3
